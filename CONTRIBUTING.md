@@ -7,3 +7,4 @@ Thank you for considering contributing to this project!
 2. Create a new branch:
    ```bash
    git checkout -b feature-name
+"Added additional contribution steps." 
