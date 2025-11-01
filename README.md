@@ -17,3 +17,4 @@ This project calculates simple interest using a Bash shell script.
 3. Run:
    ```bash
    bash simple-interest.sh
+"Fixed a minor typo in the README file." 
